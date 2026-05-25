@@ -1,0 +1,72 @@
+# 🎮 2D Game Project - Treasure Runner
+
+A simple but engaging **2D platformer adventure game** built using Unity.  
+Explore levels, avoid traps, jump over lava, and reach the treasure!
+
+---
+
+## 🧩 About the Game
+
+This is a 2D platformer game where the player must:
+- Collect items
+- Avoid lava and traps
+- Use moving platforms
+- Reach the final treasure to complete the level
+
+The game is developed using **Unity Engine (Unity 6.3)**.
+
+---
+
+## 🚀 Features
+
+- 🎮 Smooth player movement
+- 🧱 Multiple levels
+- 🔥 Lava & trap system
+- 🪜 Moving platforms
+- 💀 Checkpoint system
+- 🎯 Win / Game Over system
+- 🔊 Sound effects (if added)
+- 📱 Mobile-friendly controls
+
+---
+
+## 🎮 Controls
+
+### Keyboard (PC)
+- ⬅️ Move Left
+- ➡️ Move Right
+- ⬆️ Jump
+- 🔄 Restart Level
+
+### Mobile (if available)
+- On-screen buttons for movement and jump
+
+---
+
+## 🛠️ Built With
+
+- 🎯 Unity 6.3
+- 💻 C# scripting
+- 🎨 Unity 2D Sprite system
+- 🧠 Physics-based movement
+
+---
+
+## 📁 Project Structure
+
+   -     2DGAME/
+   - │
+   - ├── Assets/ # Game assets (scripts, sprites, scenes)
+   - ├── Packages/ # Unity packages
+   - ├── ProjectSettings/ # Game settings
+   - ├── .gitignore # Git ignore file
+   - └── README.md # Project documentation
+
+
+---
+
+## 📦 Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/2DGAME.git

@@ -1,0 +1,8 @@
+D:/game_develop/2dgame/.utmp/RelWithDebInfo/6ml22bor/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/game_develop/2dgame/.utmp/RelWithDebInfo/6ml22bor/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/game_develop/2dgame/.utmp/RelWithDebInfo/6ml22bor/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/game_develop/2dgame/.utmp/RelWithDebInfo/6ml22bor/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/game_develop/2dgame/.utmp/RelWithDebInfo/6ml22bor/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/game_develop/2dgame/.utmp/RelWithDebInfo/6ml22bor/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/game_develop/2dgame/.utmp/RelWithDebInfo/6ml22bor/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/game_develop/2dgame/.utmp/RelWithDebInfo/6ml22bor/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
