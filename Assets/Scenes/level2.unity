@@ -6285,6 +6285,14 @@ PrefabInstance:
       propertyPath: 'hearts.Array.data[2]'
       value: 
       objectReference: {fileID: 1007681055}
+    - target: {fileID: 2406234939900385319, guid: ea80156d4cb92a4429a48797d50d4541, type: 3}
+      propertyPath: m_Size.x
+      value: 1.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 2406234939900385319, guid: ea80156d4cb92a4429a48797d50d4541, type: 3}
+      propertyPath: m_Size.y
+      value: 1.43
+      objectReference: {fileID: 0}
     - target: {fileID: 2824583197493296484, guid: ea80156d4cb92a4429a48797d50d4541, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.3
@@ -6303,7 +6311,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2824583197493296484, guid: ea80156d4cb92a4429a48797d50d4541, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.03
+      value: -1.61
       objectReference: {fileID: 0}
     - target: {fileID: 2824583197493296484, guid: ea80156d4cb92a4429a48797d50d4541, type: 3}
       propertyPath: m_LocalPosition.z
