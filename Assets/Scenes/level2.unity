@@ -6926,8 +6926,28 @@ PrefabInstance:
     - {fileID: 3240706872482715326, guid: 8e8a363aadb42e1488954bd265e66a4f, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4305058697431516252, guid: 8e8a363aadb42e1488954bd265e66a4f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9100349411609447456}
   m_SourcePrefab: {fileID: 100100000, guid: 8e8a363aadb42e1488954bd265e66a4f, type: 3}
+--- !u!1 &9100349411609447455 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4305058697431516252, guid: 8e8a363aadb42e1488954bd265e66a4f, type: 3}
+  m_PrefabInstance: {fileID: 9100349411609447454}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9100349411609447456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100349411609447455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a9cda6a4c9ddcf48b477b487e6f9f2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FinishPoint
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
